@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QHeal</string>
+    <string name="search_author_and_quotes">Search Quote</string>
+    <string name="search_author">Search Authors</string>
+</resources>
