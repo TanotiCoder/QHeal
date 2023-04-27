@@ -1,10 +1,26 @@
 # QHeal
+
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/81159555/234801832-349dc532-ecf9-4a44-8ef8-0a8700372cc7.png" align="center" height = "480px"/>
+</p>
+
+QHeal is a modern mobile app built using Android development technologies that aims to motivate and inspire people with inspiring quotes. It has a range of features that make it an excellent tool for anyone looking for inspiration and motivation. These features include:
+
+- Favorite quotes: Users can save their favorite quotes in the app so they can access them easily and quickly whenever they need a boost of inspiration.
+- Random quotes: The app displays a random quote each time it is launched, providing users with a new source of inspiration every time they use the app.
+- Search: Users can search for specific quotes by keyword or author, making it easy to find quotes that are relevant to their interests or mood.
+
+---
+## Note: 
+- Still working on "Quote sharing" feature, which allows users to easily share quotes they find inspiring with their friends and family via social media, messaging apps, or email. 
+
 ---
 ## Screenshot
 <img src="https://user-images.githubusercontent.com/81159555/233867259-bb991d0c-71f1-4152-9c27-999664a1f378.png" width="220px"/><img src="https://user-images.githubusercontent.com/81159555/233867298-b8ac33a1-26bf-4155-a6e8-75b2044ecea7.png" width="220px"/><img src="https://user-images.githubusercontent.com/81159555/233867302-a1151215-e9a7-4dbb-b6c0-9cb77e328225.png" width="220px"/><img src="https://user-images.githubusercontent.com/81159555/233867308-7c55fdec-3d9b-4166-a03c-40fe19004cb8.png" width="220px"/><img src="https://user-images.githubusercontent.com/81159555/233867317-f1b3497e-00f2-47c3-8402-2bb4f216a59b.png" width="220px"/>
 
 ---
 # Tech Stack
+### The app is built using a range of modern Android development technologies, including:
 - List of Rest API
     - [Quote API](https://quotable.io/) - Get Quotes Data and it is main api.
     - [wikipedia](https://en.wikipedia.org/api/rest_v1/) - This api give us detail of author.
